@@ -1,0 +1,34 @@
+{
+  "slides": [
+    {
+      "id": "terripipeline",
+      "title": "地形场景",
+      "thumbnailUrl": {"url":"widgets/Slides/images/terri.png"},
+      "camera": {
+        "heading": 309.85400762078723,
+        "tilt": 78.25282212334078,
+        "position": {
+          "latitude": 25.378695986616744,
+          "longitude": 100.44241928488754,
+          "z": 3204.34882762935,
+          "spatialReference": { "wkid": 102100 }
+        }
+      }
+    },
+   {
+      "id": "site3D",
+      "title": "三维场景",
+      "thumbnailUrl": {"url":"widgets/Slides/images/siteSymbol.png"},
+      "camera": {
+        "heading": 353.4146451238212,
+        "tilt": 27.334179029217086,
+        "position": {
+          "latitude": 10,
+          "longitude": -100,
+          "z": 4155857.33611702,
+          "spatialReference": { "wkid": 102100 }
+        }
+      }
+    }
+  ]
+}
