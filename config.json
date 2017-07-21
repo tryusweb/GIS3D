@@ -17,7 +17,7 @@
   "appId": "",
   "authorizedCrossOriginDomains": [],
   "title": "GIS三维平台",
-  "subtitle": "三维地球",
+  "subtitle": "No Portal with Web AppBuilder for ArcGIS",
   "keepAppState": false,
   "logo": "images/app-logo.png",
   "httpProxy": {
